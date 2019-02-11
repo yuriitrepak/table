@@ -1,0 +1,42 @@
+body {
+  width: 550px;
+  margin: 0;
+  padding: 0 20px;
+
+  font-size: 14px;
+  font-family: "Arial", sans-serif;
+}
+table {
+  border-collapse: collapse;
+}
+td {
+  border-bottom: 1px solid lightgray;
+  width: 33%;
+  padding: 10px 10px; 
+}
+th {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  width: 33%;
+  padding: 10px 10px; 
+}
+.darkcyan {
+  background-color: darkcyan;
+  color: white;
+}
+.lightblue {
+  background-color: lightblue;
+  color: white;
+}
+.yellow {
+  background-color: lightyellow;
+}
+.fc {
+  text-align: left;
+}
+.sc {
+  text-align: center;
+}
+.thc {
+  text-align: right;
+}
